@@ -1,5 +1,8 @@
 # Talent Manager
 
+[!note]
+this is a node
+
 Three ways to deploy this application:
 
 Option 1: Click the button below
